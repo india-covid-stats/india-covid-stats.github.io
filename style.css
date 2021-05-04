@@ -99,7 +99,8 @@ main {
   height: 20rem;
   padding: 1rem;
   /*   background-color: rgb(59,104,201);  */
-  background-color: #328;
+  /* background-color: #328; */
+  background: linear-gradient(170deg, #328 50%,  #ae00ff 99%);
   color: aliceblue;
   border-radius: 1rem;
   box-shadow: 0.1rem 0.1rem 10px rgba(0, 0, 0, 0.7);
